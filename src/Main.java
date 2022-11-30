@@ -1,4 +1,4 @@
-public class Main {
+public class Main {//
     public static void main(String[] args) {
         Counter chet = new Counter("Четные");
         Counter nochet = new Counter("Нечетные");
